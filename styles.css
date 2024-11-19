@@ -1,0 +1,38 @@
+.div{
+    font-size: large;
+    font-weight: 100%;
+    font-style: italic;
+    background-color: bisque;
+    color:blue;
+    text-align: center;
+    text-indent: 1px;
+    width: auto;
+    
+
+}
+.unimportant{
+ font-size: bold;
+ font-weight: 100%;
+ width: auto;
+ color: aqua;
+ background-color: black;
+ text-align: center ;
+ background-image: url(./img/nigeria.jpg);
+
+}
+.highlight{
+    color: red;
+    font-style: italic;
+    width: auto;
+}
+.fish-type{
+    color: tomato;
+}
+
+.divintro{
+    text-align: center;
+    color: peru;
+    font-size: large;
+    width: auto;
+
+}
